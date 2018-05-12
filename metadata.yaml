@@ -14,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20495#Um-meeting-na-parvonia--13-poemeto-escripto-num-canto
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2007-01-31'
 gutenberg_type: Text
